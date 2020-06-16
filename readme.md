@@ -1,6 +1,15 @@
+
 # Writing Notes To Self
 
 These are draft notes or a content dumping ground for writing techniques and tricks, especially for researchers. 
+
+## Writing In The Sciences
+
+- Verbs drive sentances, Nouns slow them down
+	-  *initiation* -> *to initiate*,  *progression* -> *to progress*,  *expression*->*to expresss*
+-  Cut The Clutter
+	- "This paper ~~provides a review of~~ **reviews** ~~the basic tanets of~~ cancer biology study design, using ~~an~~ example ~~studies~~ that illustrate the ~~methodologic~~ challenges **and** ~~or that demonstarte succesful~~ solutions ~~to difficulties inherent in biological research~~" 
+	- 
 
 
 ## Biggest Mistakes By Newbies in CHI
